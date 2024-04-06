@@ -1,0 +1,5 @@
+1- create file mycv.txt 
+
+2- load content of your cv in html page without reloading page using 2 methods
+    1- xhr
+    2- ajax 
