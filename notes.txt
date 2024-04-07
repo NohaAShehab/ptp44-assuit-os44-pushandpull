@@ -1,0 +1,9 @@
+
+
+subscribe to server
+
+send me updates -->
+
+// protocol --> ws --> websocket
+
+websocket (client --> js ,,, server ---> python)
